@@ -1,0 +1,23 @@
+=======
+twiCal
+=======
+
+Started at WarbleCamp 2010 @warblecamp
+
+Initial Development: @ketan @nathanlon @johnxcom
+Encouragement: @nuxnix @farhan
+Slides:  http://www.slideshare.net/nuxnix/warblecamp-twical
+
+
+the core twiCal wrappers will now be available this project is dependent on the github twitteroauth project + a php vcalendar library.
+
+Will expand and add more details shortly.
+
+The files within this library will contain the core twical wrapper to the vcal calss and wrappers for working with twitteroauth.
+
+The key componenets within this project will be the callback from twitter - storage of token details in a mysql db - using PEAR MDB2 - so any DB could be used. The upload of an ics or a webcal file, and the storage of that data with conversion of local time entries to GMT.
+
+There will also be code for basic tweet out mechanisms.
+
+Ketan
+
