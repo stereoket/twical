@@ -8,6 +8,10 @@ Initial Development: @ketan @nathanlon @johnxcom
 Encouragement: @nuxnix @farhan
 Slides:  http://www.slideshare.net/nuxnix/warblecamp-twical
 
+Dependedncies: 
+
+http://www.kigkonsult.se/iCalcreator/index.php
+http://github.com/abraham/twitteroauth
 
 the core twiCal wrappers will now be available this project is dependent on the github twitteroauth project + a php vcalendar library.
 
@@ -19,5 +23,7 @@ The key componenets within this project will be the callback from twitter - stor
 
 There will also be code for basic tweet out mechanisms.
 
+
+Local ini should be outside of the webroot.
 Ketan
 
