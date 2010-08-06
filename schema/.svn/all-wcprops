@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/twical/!svn/ver/4/trunk/schema
+END
+twical-core-schema-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/twical/!svn/ver/4/trunk/schema/twical-core-schema-mysql.sql
+END
